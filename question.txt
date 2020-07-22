@@ -1,0 +1,39 @@
+var myQuestions = [ 
+      {
+      Q. 1 : What does HTML stand for?
+      "A" : "Hypertext Move Language"
+      "B" : "Hypertext Markup Language"
+      "C" : "Home tool Markup Language"
+      "D" : "How to move loose"
+      "answer": "B"
+
+Q. 2 : What tag is used for a line break?
+      A : <div>
+      B : <br>
+      C : <hr>
+      D : <space>
+      "answer" : "B"
+Q. 3 : Where is Javascript placed in an HTML document?
+      A : <link>
+      B : <header>
+      C : <footer>
+      D : <body>
+      "answer" : "C"
+Q. 4 : Which is the correct way to start an array?
+      A : var boxes = [small, medium, large]
+      B : var boxes = ["small, medium, large"]
+      C : var boxes = ["small", "medium", "large"]
+      D : var boxes = (small, medium, large)
+      "answer" : "C"
+
+Q. 5 : Where are pseudo-classes used?
+      A : HTML
+      B : CSS
+      C : Javascript
+      D : HTML and CSS
+      "answer" : "D"
+
+
+
+
+
